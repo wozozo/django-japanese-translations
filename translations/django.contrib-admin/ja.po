@@ -86,7 +86,7 @@ msgstr "再ログインしてください。ログインセッションが有効
 #: forms.py:37
 #, python-format
 msgid "Your e-mail address is not your username. Try '%s' instead."
-msgstr "メールアドレスはユーザ名ではありません。 '%s' を試してみてください。"
+msgstr "メールアドレスはユーザー名ではありません。 '%s' を試してみてください。"
 
 #: helpers.py:20
 msgid "Action:"
@@ -114,11 +114,11 @@ msgstr "変更メッセージ"
 
 #: models.py:30
 msgid "log entry"
-msgstr "ログエントリ"
+msgstr "ログエントリー"
 
 #: models.py:31
 msgid "log entries"
-msgstr "ログエントリ"
+msgstr "ログエントリー"
 
 #: models.py:40
 #, python-format
@@ -311,15 +311,15 @@ msgstr "ホーム"
 
 #: templates/admin/500.html:8
 msgid "Server error"
-msgstr "サーバエラー"
+msgstr "サーバーエラー"
 
 #: templates/admin/500.html:12
 msgid "Server error (500)"
-msgstr "サーバエラー (500)"
+msgstr "サーバーエラー (500)"
 
 #: templates/admin/500.html:15
 msgid "Server Error <em>(500)</em>"
-msgstr "サーバエラー <em>(500)</em>"
+msgstr "サーバーエラー <em>(500)</em>"
 
 #: templates/admin/500.html:16
 msgid ""
@@ -414,7 +414,7 @@ msgstr "%(name)s を追加"
 
 #: templates/admin/change_list.html:80
 msgid "Filter"
-msgstr "フィルタ"
+msgstr "フィルター"
 
 #: templates/admin/change_list_results.html:17
 msgid "Remove from sorting"
@@ -526,11 +526,11 @@ msgid ""
 "Something's wrong with your database installation. Make sure the appropriate"
 " database tables have been created, and make sure the database is readable "
 "by the appropriate user."
-msgstr "データベースの設定に問題があるようです。適切なテーブルが作られていること、適切なユーザでデータベースのデータを読み込めることを確認してください。"
+msgstr "データベースの設定に問題があるようです。適切なテーブルが作られていること、適切なユーザーでデータベースのデータを読み込めることを確認してください。"
 
 #: templates/admin/login.html:34
 msgid "Username:"
-msgstr "ユーザ名:"
+msgstr "ユーザー名:"
 
 #: templates/admin/login.html:38
 msgid "Password:"
@@ -538,7 +538,7 @@ msgstr "パスワード:"
 
 #: templates/admin/login.html:45
 msgid "Forgotten your password or username?"
-msgstr "パスワードまたはユーザ名を忘れましたか？"
+msgstr "パスワードまたはユーザー名を忘れましたか？"
 
 #: templates/admin/object_history.html:24
 msgid "Date/time"
@@ -546,7 +546,7 @@ msgstr "日付/時刻"
 
 #: templates/admin/object_history.html:25
 msgid "User"
-msgstr "ユーザ"
+msgstr "ユーザー"
 
 #: templates/admin/object_history.html:26
 msgid "Action"
@@ -597,11 +597,11 @@ msgstr "保存して編集を続ける"
 msgid ""
 "First, enter a username and password. Then, you'll be able to edit more user"
 " options."
-msgstr "まずユーザ名とパスワードを登録してください。その後詳細情報が編集可能になります。"
+msgstr "まずユーザー名とパスワードを登録してください。その後詳細情報が編集可能になります。"
 
 #: templates/admin/auth/user/add_form.html:8
 msgid "Enter a username and password."
-msgstr "ユーザ名とパスワードを入力してください。"
+msgstr "ユーザー名とパスワードを入力してください。"
 
 #: templates/admin/auth/user/change_password.html:33
 #, python-format
@@ -753,7 +753,7 @@ msgstr "次のページで新しいパスワードを選んでください:"
 
 #: templates/registration/password_reset_email.html:8
 msgid "Your username, in case you've forgotten:"
-msgstr "あなたのユーザ名 (念のため):"
+msgstr "あなたのユーザー名 (念のため):"
 
 #: templates/registration/password_reset_email.html:10
 msgid "Thanks for using our site!"

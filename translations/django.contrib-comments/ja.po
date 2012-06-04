@@ -108,7 +108,7 @@ msgstr "オブジェクト ID"
 
 #: models.py:50 models.py:168
 msgid "user"
-msgstr "ユーザ"
+msgstr "ユーザー"
 
 #: models.py:52
 msgid "user's name"

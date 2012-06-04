@@ -79,7 +79,7 @@ msgstr "登録が必要です"
 #: models.py:13
 msgid ""
 "If this is checked, only logged-in users will be able to view the page."
-msgstr "チェックした場合、ログインしたユーザだけがページを参照できます。"
+msgstr "チェックした場合、ログインしたユーザーだけがページを参照できます。"
 
 #: models.py:18
 msgid "flat page"

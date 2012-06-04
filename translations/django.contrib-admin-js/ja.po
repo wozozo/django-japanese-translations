@@ -36,7 +36,7 @@ msgstr "使用可能な %s のリストを絞り込むには、このボック�
 
 #: static/admin/js/SelectFilter2.js:57
 msgid "Filter"
-msgstr "フィルタ"
+msgstr "フィルター"
 
 #: static/admin/js/SelectFilter2.js:61
 msgid "Choose all"

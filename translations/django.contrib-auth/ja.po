@@ -40,7 +40,7 @@ msgstr "パスワードの変更: %s"
 
 #: forms.py:62
 msgid "A user with that username already exists."
-msgstr "同じユーザ名が既に登録済みです。"
+msgstr "同じユーザー名が既に登録済みです。"
 
 #: forms.py:63 forms.py:251 forms.py:308
 msgid "The two password fields didn't match."
@@ -48,7 +48,7 @@ msgstr "確認用パスワードが一致しません。"
 
 #: forms.py:65 forms.py:110 forms.py:139
 msgid "Username"
-msgstr "ユーザ名"
+msgstr "ユーザー名"
 
 #: forms.py:67 forms.py:111
 msgid "Required. 30 characters or fewer. Letters, digits and @/./+/-/_ only."
@@ -75,13 +75,13 @@ msgid ""
 "Raw passwords are not stored, so there is no way to see this user's "
 "password, but you can change the password using <a href=\"password/\">this "
 "form</a>."
-msgstr "生のパスワードが格納されているので、このユーザのパスワードは参照できませんが、 <a href=\"password/\">このフォーム</a> を使用してパスワードを変更できます 。"
+msgstr "生のパスワードが格納されているので、このユーザーのパスワードは参照できませんが、 <a href=\"password/\">このフォーム</a> を使用してパスワードを変更できます 。"
 
 #: forms.py:143
 msgid ""
 "Please enter a correct username and password. Note that both fields are "
 "case-sensitive."
-msgstr "正しいユーザ名とパスワードを入力してください (大文字小文字は区別します) 。"
+msgstr "正しいユーザー名とパスワードを入力してください (大文字小文字は区別します) 。"
 
 #: forms.py:145
 msgid ""
@@ -97,7 +97,7 @@ msgstr "アカウントが無効です。"
 msgid ""
 "That e-mail address doesn't have an associated user account. Are you sure "
 "you've registered?"
-msgstr "メールアドレスの一致するユーザはいません。本当に登録しましたか？"
+msgstr "メールアドレスの一致するユーザーはいません。本当に登録しましたか？"
 
 #: forms.py:193
 msgid ""
@@ -180,7 +180,7 @@ msgstr "グループ"
 
 #: models.py:232
 msgid "username"
-msgstr "ユーザ名"
+msgstr "ユーザー名"
 
 #: models.py:233
 msgid ""
@@ -209,7 +209,7 @@ msgstr "スタッフ権限"
 
 #: models.py:240
 msgid "Designates whether the user can log into this admin site."
-msgstr "ユーザが管理サイトにログイン可能かどうかを示します。"
+msgstr "ユーザーが管理サイトにログイン可能かどうかを示します。"
 
 #: models.py:242
 msgid "active"
@@ -219,11 +219,11 @@ msgstr "有効"
 msgid ""
 "Designates whether this user should be treated as active. Unselect this "
 "instead of deleting accounts."
-msgstr "ユーザがアクティブかどうかを示します。アカウントを消す代わりに選択を解除してください。"
+msgstr "ユーザーがアクティブかどうかを示します。アカウントを消す代わりに選択を解除してください。"
 
 #: models.py:245
 msgid "superuser status"
-msgstr "スーパーユーザ権限"
+msgstr "スーパーユーザー権限"
 
 #: models.py:246
 msgid ""
@@ -247,15 +247,15 @@ msgstr "このユーザーが所属するグループ。ユーザーはグルー
 
 #: models.py:255
 msgid "user permissions"
-msgstr "ユーザパーミッション"
+msgstr "ユーザーパーミッション"
 
 #: models.py:260
 msgid "user"
-msgstr "ユーザ"
+msgstr "ユーザー"
 
 #: models.py:261
 msgid "users"
-msgstr "ユーザ"
+msgstr "ユーザー"
 
 #: views.py:93
 msgid "Logged out"

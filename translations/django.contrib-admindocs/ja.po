@@ -23,7 +23,7 @@ msgstr "タグ"
 
 #: views.py:92 views.py:94 views.py:96
 msgid "filter:"
-msgstr "フィルタ"
+msgstr "フィルター"
 
 #: views.py:155 views.py:157 views.py:159
 msgid "view:"
@@ -164,7 +164,7 @@ msgstr "テンプレート"
 
 #: templates/admin_doc/template_filter_index.html:10
 msgid "Filters"
-msgstr "フィルタ"
+msgstr "フィルター"
 
 #: templates/admin_doc/template_tag_index.html:10
 msgid "Tags"

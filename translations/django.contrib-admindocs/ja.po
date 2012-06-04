@@ -115,7 +115,7 @@ msgid ""
 "bookmarklets require you to be viewing the site from a computer designated\n"
 "as \"internal\" (talk to your system administrator if you aren't sure if\n"
 "your computer is \"internal\").</p>\n"
-msgstr "\n<p class=\"help\">ブックマークレットをインストールするには、リンクをブックマークツールバーにドラッグするか、\nリンクを右クリックしてブックマークに追加してください。これで\nサイトのどのページからでもブックマークレットを選択可能になりました。\nブックマークレットによっては、内部ネットワークにあるコンピュータからこのサイトを\n参照していなければならないことがあります。内部ネットワークにあるかどうか不明な場合は、システム管理者に確認してください。</p>\n"
+msgstr "\n<p class=\"help\">ブックマークレットをインストールするには、リンクをブックマークツールバーにドラッグするか、\nリンクを右クリックしてブックマークに追加してください。これで\nサイトのどのページからでもブックマークレットを選択可能になりました。\nブックマークレットによっては、内部ネットワークにあるコンピューターからこのサイトを\n参照していなければならないことがあります。内部ネットワークにあるかどうか不明な場合は、システム管理者に確認してください。</p>\n"
 
 #: templates/admin_doc/bookmarklets.html:26
 msgid "Documentation for this page"

@@ -1,0 +1,11 @@
+.DS_Store
+.svn
+.hg
+*.pyc
+*.local.*
+tags
+tags-*
+.vim/.netrwhist
+.vim/doc/tags
+.vim/doc/tags-ja
+.vim/bundle
